@@ -1,6 +1,6 @@
 import React from 'react';
 import PhotoList from '../PhotoList';
-import { capitalizeFirstLetter } from '../../utils/helpers'; // 大写
+import { capitalizeFirstLetter } from '../../utils/helpers';
 
 function Gallery(props) {
   const { currentCategory } = props;

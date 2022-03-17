@@ -2,7 +2,6 @@ import React from 'react'
 import coverImage from "../../assets/cover/cover-image.jpg";
 
 function About() {
-  //React components must always return a single parent JSX element.
 
   return (
     <section className="my-5" >
