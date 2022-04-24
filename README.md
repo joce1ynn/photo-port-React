@@ -1,4 +1,4 @@
-# React App: Photo Port
+# React App: Oh Snap!
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 
 ## Description:
 
-This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
+This is a single-page application called `Oh Snap!` that uses React state, props, Hooks, and reusable UI components to provide a simple yet sleek platform for showing off those photography skills!
 
 ## Technology:
 
@@ -21,7 +21,7 @@ Project is created with:
 
 - Javascript
 - Node.js
-- Inquirer.js
+- React.js
 
 ## Installation
 
