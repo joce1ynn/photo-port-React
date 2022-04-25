@@ -59,7 +59,9 @@ Made by Wenwen Tian
 ## Test Instructions
 
 To run tests for this application, you can run the following command:
-`npm run test`
+```
+npm run test
+```
 
 ## Questions?
 
