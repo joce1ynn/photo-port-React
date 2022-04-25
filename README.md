@@ -39,7 +39,7 @@ After installing npm packages, the application will be invoked by using the foll
 npm start
 ```
 
-#### Deployment
+### Deployment
 
 Run the following command:
 
@@ -66,9 +66,9 @@ Run the following command:
 npm run deploy
 ```
 
-[Click me to see the app!](http://joce1ynn.github.io/photo-port)
+[Click me to see the app!](https://joce1ynn.github.io/photo-port-React/)
 
-#### Example Screenshot
+### Example Screenshot
 
 ![Screenshot](./assets/images/ET-1.png)
 ![Screenshot](./assets/images/ET-2.png)
