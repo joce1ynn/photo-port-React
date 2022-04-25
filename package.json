@@ -1,8 +1,8 @@
 {
+  "homepage": "http://joce1ynn.github.io/photo-port-React",
   "name": "photo-port",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://joce1ynn.github.io/photo-port-React",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "react": "^17.0.2",

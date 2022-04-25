@@ -22,6 +22,7 @@ Project is created with:
 - Javascript
 - Node.js
 - React.js
+- Jest.js
 
 ## Installation
 
@@ -50,7 +51,7 @@ npm install -D gh-pages
 Modify the <b>package.json</b> file:
 
 ```json
-"homepage": "http://<username>.github.io/photo-port",
+"homepage": "http://<username>.github.io/photo-port-React",
 ```
 
 on scrips:
