@@ -71,9 +71,7 @@ npm run deploy
 
 ### Example Screenshot
 
-![Screenshot](./assets/images/ET-1.png)
-![Screenshot](./assets/images/ET-2.png)
-![Screenshot](./assets/images/ET-3.png)
+![Screenshot](./src/assets/screenshot/OS.png)
 
 ## License
 
