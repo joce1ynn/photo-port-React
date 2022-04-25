@@ -39,7 +39,34 @@ After installing npm packages, the application will be invoked by using the foll
 npm start
 ```
 
-[Click me to see the app!](https:)
+#### Deployment
+
+Run the following command:
+
+```
+npm install -D gh-pages
+```
+
+Modify the <b>package.json</b> file:
+
+```json
+"homepage": "http://<username>.github.io/photo-port",
+```
+
+on scrips:
+
+```json
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build"
+```
+
+Run the following command:
+
+```
+npm run deploy
+```
+
+[Click me to see the app!](http://joce1ynn.github.io/photo-port)
 
 #### Example Screenshot
 
@@ -59,6 +86,7 @@ Made by Wenwen Tian
 ## Test Instructions
 
 To run tests for this application, you can run the following command:
+
 ```
 npm run test
 ```
