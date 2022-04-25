@@ -47,3 +47,5 @@ export default App;
 
 // return后的不是 HTML。它是一种称为JSX的语言,可以在 JavaScript中表示 HTML
 // To effect any change on the application, we need to either modify this file or add components inside it.
+
+// rfc is the shortcut for reach component
