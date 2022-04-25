@@ -69,9 +69,10 @@ npm run deploy
 
 [Click me to see the app!](https://joce1ynn.github.io/photo-port-React/)
 
-### Example Screenshot
+### App Screenshot
 
 ![Screenshot](./src/assets/screenshot/OS.png)
+![Screenshot](./src/assets/screenshot/OS-1.png)
 
 ## License
 
